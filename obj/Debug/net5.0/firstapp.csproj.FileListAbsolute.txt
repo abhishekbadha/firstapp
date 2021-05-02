@@ -1,0 +1,16 @@
+F:\MSC.IT\SEM 2\Microservices Architecture_Abhijeet\Practicals\prac6\firstapp\bin\Debug\net5.0\firstapp.exe
+F:\MSC.IT\SEM 2\Microservices Architecture_Abhijeet\Practicals\prac6\firstapp\bin\Debug\net5.0\firstapp.deps.json
+F:\MSC.IT\SEM 2\Microservices Architecture_Abhijeet\Practicals\prac6\firstapp\bin\Debug\net5.0\firstapp.runtimeconfig.json
+F:\MSC.IT\SEM 2\Microservices Architecture_Abhijeet\Practicals\prac6\firstapp\bin\Debug\net5.0\firstapp.runtimeconfig.dev.json
+F:\MSC.IT\SEM 2\Microservices Architecture_Abhijeet\Practicals\prac6\firstapp\bin\Debug\net5.0\firstapp.dll
+F:\MSC.IT\SEM 2\Microservices Architecture_Abhijeet\Practicals\prac6\firstapp\bin\Debug\net5.0\ref\firstapp.dll
+F:\MSC.IT\SEM 2\Microservices Architecture_Abhijeet\Practicals\prac6\firstapp\bin\Debug\net5.0\firstapp.pdb
+F:\MSC.IT\SEM 2\Microservices Architecture_Abhijeet\Practicals\prac6\firstapp\obj\Debug\net5.0\firstapp.csprojAssemblyReference.cache
+F:\MSC.IT\SEM 2\Microservices Architecture_Abhijeet\Practicals\prac6\firstapp\obj\Debug\net5.0\firstapp.GeneratedMSBuildEditorConfig.editorconfig
+F:\MSC.IT\SEM 2\Microservices Architecture_Abhijeet\Practicals\prac6\firstapp\obj\Debug\net5.0\firstapp.AssemblyInfoInputs.cache
+F:\MSC.IT\SEM 2\Microservices Architecture_Abhijeet\Practicals\prac6\firstapp\obj\Debug\net5.0\firstapp.AssemblyInfo.cs
+F:\MSC.IT\SEM 2\Microservices Architecture_Abhijeet\Practicals\prac6\firstapp\obj\Debug\net5.0\firstapp.csproj.CoreCompileInputs.cache
+F:\MSC.IT\SEM 2\Microservices Architecture_Abhijeet\Practicals\prac6\firstapp\obj\Debug\net5.0\firstapp.dll
+F:\MSC.IT\SEM 2\Microservices Architecture_Abhijeet\Practicals\prac6\firstapp\obj\Debug\net5.0\ref\firstapp.dll
+F:\MSC.IT\SEM 2\Microservices Architecture_Abhijeet\Practicals\prac6\firstapp\obj\Debug\net5.0\firstapp.pdb
+F:\MSC.IT\SEM 2\Microservices Architecture_Abhijeet\Practicals\prac6\firstapp\obj\Debug\net5.0\firstapp.genruntimeconfig.cache
